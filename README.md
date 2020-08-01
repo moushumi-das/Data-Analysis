@@ -7,15 +7,14 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 # Objective
 * Concatenating multiple csvs together to generate a new DataFrame. 
 * Get information about the dataset using describe() & info().
-* Adding columns
-* Parsing cells as strings to make new columns (.str)
-* Use groupby() to perform aggregate analysis
-* Generate a bar graph of 'Product' & mean of the 'price'.
-* Generate a bar graph of 'Product type' & 'Quantity Ordered'.
-* Display the sales break down by product category .
-* Finally bar and pie graph of 'Product type', 'Quantity'.
+* Adding new columns.
+* Use groupby() to perform aggregate analysis.
+* Display the sales break down by product category.
+* Display a line plot of top_sales_hour
+* Finding the correlation between price of the products and quantity ordered.
+* Generate a bar graph of top selling city.
 
 Pie graph of 'Product type' and 'Quantity Ordered'.
-
+bar plot of quantity of ordered product and line plot of top_sales_hour
 ![](pie_chart.png)
 ![](product_price.png)
