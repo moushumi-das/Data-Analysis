@@ -7,7 +7,6 @@ Data analysis & visualization sales dataset with Python using Matplotlib, Pandas
 # Objective
 * Concate multiple csv files together to generate a new DataFrame. 
 * Get information about the dataset using describe() & info().
-* Add new columns.
 * Use groupby() to perform aggregate analysis.
 * Display the sales break down by product category.
 * Display a line plot of top_sales_hour
